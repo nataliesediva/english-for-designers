@@ -1,4 +1,4 @@
 # Alternative Text
 
-![Placeholder for alt text.](letter-o-gif)
+![Placeholder for alt text.](letter-o-gif.gif)
 A close-up of a flowershaped lowercase letter O with ten rounded edges and a face.
