@@ -15,6 +15,6 @@ tagline
 
 ## Class Work
 
-- Alternative Text
+- [Alternative Text](01-alternative-text)
 - First Impression
 - Takeaways
