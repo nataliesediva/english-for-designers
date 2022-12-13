@@ -1,6 +1,6 @@
 # Experience
 
-View CV/résumé PDF
+[View CV/résumé PDF](images/CV Design.pdf)
 
 - - -
 
