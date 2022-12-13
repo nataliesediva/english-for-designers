@@ -4,7 +4,7 @@ tagline
 ## About Me
 
 - My Story 
-- CV/Resumé
+- [CV/Resumé](04-experience)
 - Voice, Tone, and Style guide
 - Contact: hello@email.com
 
