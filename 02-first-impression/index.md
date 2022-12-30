@@ -27,7 +27,7 @@ Today, I enjoy working creatively for smaller and bigger brands to develop their
 
 ![Placeholder for alt text.](front-page.png)
 
-[***CHECK IT OUT***](03-content-first)
+[***CHECK IT OUT***]([03-content-first](https://nataliesediva.github.io/english-for-designers/03-content-first/))
 
 
 
