@@ -3,9 +3,9 @@ tagline
 
 ## About Me
 
-- My Story 
-- [CV/Resumé](04-experience)
-- Contact: hello@email.com
+- [Resumé](04-experience)
+- Contact
+    - natalie@spotless-design.com
 
 ## Case Studies
 
