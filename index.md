@@ -5,16 +5,15 @@ tagline
 
 - My Story 
 - [CV/Resumé](04-experience)
-- Voice, Tone, and Style guide
 - Contact: hello@email.com
 
 ## Case Studies
 
-- Project Name
-- Project Presentation
+- [Project Name](03-content-first)
 
 ## Class Work
 
 - [Alternative Text](01-alternative-text)
 - [First Impression](02-first-impression)
+- [Voice, Tone, and Style guide](05-voice-tone)
 - Takeaways
