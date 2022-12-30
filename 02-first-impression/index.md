@@ -11,17 +11,17 @@ I'm self-taught, who’s design path started as a hobby in illustrations and art
 
 ### Business Card Design
 
-- YEAR
- - 2021
+YEAR
+- 2021
 
-- INDUSTRY
+INDUSTRY
  - Sewing Service
 
-- SCOPE
- - Visual Direction
- - Color and Type
- - Business Card Design
- - Print Ready Files
+SCOPE
+- Visual Direction
+- Color and Type
+- Business Card Design
+- Print Ready Files
 
 
 ![Placeholder for alt text.](front-page.png)
