@@ -1,8 +1,9 @@
-# Who is Natalie?
-tagline
+# Hello and welcome!
+I'm Natalie and this is my design portfolio website. My field of focus is graphic design with big portion of illustrations. Let's transform your vision into the best creative solution.
 
 ## About Me
 
+:purple_heart: FOREVER A CREATIVE EXPLORER
 - [Resumé](04-experience)
 - Contact
     - natalie@spotless-design.com
