@@ -9,7 +9,7 @@ tagline
 
 ## Case Studies
 
-- [Project Name](03-content-first)
+- [Business Card Design](03-content-first)
 
 ## Class Work
 
