@@ -24,6 +24,8 @@ SCOPE
 
 ![Placeholder for alt text.](front-page.png)
 
+[***CHECK IT OUT***](03-content-first)
+
 
 
 
