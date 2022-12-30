@@ -25,7 +25,7 @@ SCOPE
 - Print Ready Files
 
 
-![Business Card Design.](front page.png)
+![Business Card Design.](front page)
 
 
 
