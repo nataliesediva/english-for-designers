@@ -8,7 +8,7 @@ I'm Natalie and this is my design portfolio website. My field of focus is graphi
 - Contact
     - natalie@spotless-design.com
 
-## Case Studies
+## Case Studie
 
 - [Business Card Design](03-content-first)
 
