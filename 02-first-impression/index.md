@@ -25,7 +25,7 @@ SCOPE
 - Print Ready Files
 
 
-![Placeholder for alt text]()
+![Business Card Design](front page.png)
 
 
 
