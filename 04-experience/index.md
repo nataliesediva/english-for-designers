@@ -3,8 +3,10 @@
 - - -
 
 # Natálie Šedivá
-![Placeholder for alt text.](profile-pic-1.png)
+
 Passionate Graphic Designer and Illustrator
+
+![Placeholder for alt text.](profile-pic-2.png)
 
 - CONTACT
     - natalie@spotless-design.com
