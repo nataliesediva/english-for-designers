@@ -3,6 +3,7 @@
 - - -
 
 # Natálie Šedivá
+![Placeholder for alt text.](profile-pic-1.png)
 Passionate Graphic Designer and Illustrator
 
 - CONTACT
