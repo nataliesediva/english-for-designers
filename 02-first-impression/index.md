@@ -5,7 +5,7 @@
 I'm self-taught, who’s design path started as a hobby in illustrations and art creations. Soon progressed into a passion for design.
 Today, I enjoy working creatively for smaller and bigger brands to develop their identity beyond a logo.
 
-***Currently*** I’m a graphic designer and illustrator at [Impact Hub Czech Republic](https://impacthub.cz/en). Taking care of the visual side and collaborating with the marketing team on the growth and new implementations.
+***Currently*** I’m a Graphic Designer and Illustrator at [Impact Hub Czech Republic](https://impacthub.cz/en). Taking care of the visual side and collaborating with the marketing team on the growth and new implementations.
 
 <br>
 <br>
