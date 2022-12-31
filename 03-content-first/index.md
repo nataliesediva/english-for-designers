@@ -7,7 +7,8 @@ Client: WIN2WIN s. r. o.
 
 ***Win2win*** is a czech company that offers sewing and repair services. They use different materials from zippers and shoelaces to various clips, hooks, and loops.
 
-Company was in need of a business card and they got back to me with the request of helping them to create a _modern and minimalist business card design_. They gave me creative freedom in terms of colors, elements and typography. So there were pretty much no boundaries in the design process.
+Company was in need of a business card and they got back to me with the request of helping them to create a _modern and minimalist business card design_.<br>
+They gave me creative freedom in terms of colors, elements and typography. So there were pretty much no boundaries in the design process.
 
 <br>
 <br>
