@@ -1,16 +1,29 @@
 # Hello and welcome!
+- - -
+<br>
+<br>
+
 I'm Natalie and this is my design portfolio website. My field of focus is graphic design with big portion of illustrations. Let's transform your vision into the best creative solution.
+
+<br>
+<br>
 
 ## About Me
 
-:purple_heart: FOREVER A CREATIVE EXPLORER
+💜 FOREVER A CREATIVE EXPLORER
 - [Resumé](04-experience)
 - Contact
     - natalie@spotless-design.com
 
+<br>
+<br>
+
 ## Case Studie
 
 - [Business Card Design](03-content-first)
+
+<br>
+<br>
 
 ## Class Work
 
