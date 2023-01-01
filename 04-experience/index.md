@@ -46,7 +46,7 @@ Working as a Junior Graphic Designer. My tasks were mainly Social Media Posts, C
 <br>
 
 ### Extern Shortterm and Longterm Projects
-- _202O-NOW Freelancing_
+- _2020-NOW Freelancing_
 
 Working as an Extern Graphic Designer and Illustrator. My freelance work includes various types of jobs - Desktop Publishing, Branding and Logo Design, Illustration, Video Editing or Infographics and Icons.
 
