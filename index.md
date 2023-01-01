@@ -1,9 +1,8 @@
 # Hello and Welcome!
 - - -
 
-I'm Natalie and this is my design portfolio website. My field of focus is graphic design with big portion of illustrations. Let's transform your vision into the best creative solution.
+I'm Natalie and this is my design portfolio website. My field of focus is Graphic Design with big portion of Illustrations. Let's transform your idea into the best creative outcome!
 
-<br>
 <br>
 
 ## About Me
@@ -14,13 +13,11 @@ I'm Natalie and this is my design portfolio website. My field of focus is graphi
     - natalie@spotless-design.com
 
 <br>
-<br>
 
 ## Case Studie
 
 - [Business Card Design](03-content-first)
 
-<br>
 <br>
 
 ## Class Work
