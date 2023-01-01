@@ -1,4 +1,5 @@
-# Alternative Text
+# ALTERNATIVE TEXT
+---
 
 ![Placeholder for alt text.](letter-o-gif.gif)
 
