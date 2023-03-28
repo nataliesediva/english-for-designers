@@ -9,6 +9,8 @@ This bachelor's thesis is about the creation of a corporate identity for the new
 The result of defining and understanding these findings is the creation of a new corporate style for Cingertetik. The goal of the work is such a uniform visual style, which with its dynamism can connect the existing and new departments of the company and at the same time give each a unique and distinctive touch so that their target group can identify with them.
 
 **Keywords**
+
 <br>
+
 dynamic visual identity, film, creative community, online environment
 
