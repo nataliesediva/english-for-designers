@@ -26,3 +26,4 @@ I'm Natalie and this is my design portfolio website. My field of focus is Graphi
 - [First Impression](02-first-impression)
 - [Voice, Tone, and Style guide](05-voice-tone)
 - [Takeaways](takeaways)
+- [Thesis Abstract](07-thisis-abstract)
