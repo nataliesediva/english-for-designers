@@ -10,7 +10,5 @@ The result of defining and understanding these findings is the creation of a new
 
 **Keywords**
 
-<br>
-
 dynamic visual identity, film, creative community, online environment
 
