@@ -89,7 +89,7 @@ I think that when you get to this point of understanding yourself and accepting 
 
 ![Placeholder for alt text.](VLS Ilustrace_Natálie Šedivá.png)
 
-![Placeholder for alt text.](right side_TF.png)
+![Placeholder for alt text.](Full_TF.png)
 
 ![Placeholder for alt text.](IH-ilustrace_10.png)
 
