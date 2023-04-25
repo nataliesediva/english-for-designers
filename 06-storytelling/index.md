@@ -87,7 +87,7 @@ I think that when you get to this point of understanding yourself and accepting 
 ## A little bonus - showcase of my *(in progress)* style
 
 
-![Placeholder for alt text.](VLS Ilustrace_Natálie Šedivá.png)
+![Placeholder for alt text.](VLS Ilustrace.png)
 
 ![Placeholder for alt text.](Full_TF.png)
 
