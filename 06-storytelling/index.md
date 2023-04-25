@@ -81,6 +81,18 @@ If you are ready, reveal her style to see if you were close!
 
 I think that when you get to this point of understanding yourself and accepting your nature. It will get much easier to just surround yourself with the inspiration and motivation you need and that way to develop your style!
 
+<br>
+<br>
+
+## A little bonus - showcase of my *(in progress)* style
+
+
+![Placeholder for alt text.](VLS Ilustrace_Natálie Šedivá.png)
+
+![Placeholder for alt text.](right side_TF.png)
+
+![Placeholder for alt text.](IH-ilustrace_10.png)
+
 
 
 
