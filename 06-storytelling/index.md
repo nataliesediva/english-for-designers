@@ -91,7 +91,7 @@ I think that when you get to this point of understanding yourself and accepting 
 
 ![Placeholder for alt text.](Full_TF.png)
 
-![Placeholder for alt text.](IH-ilustrace_10.png)
+![Placeholder for alt text.](Asset 1.png)
 
 
 
