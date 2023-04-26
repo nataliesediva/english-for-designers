@@ -95,17 +95,31 @@ Animations symbolize the process of creation and collaboration.
 
 ## Colors
 
+![Placeholder for alt text.](Cinergetik barevnost.png)
+
+![Placeholder for alt text.](Departementy barevnost.png)
+
 For Cingertetik I used black and white to maintain the tonality of the company. I chose a For Cingertetik I used black and white to maintain the tonality of the company. I chose a deep matte orange for Platform to radiate energy and strength. Fdeep matte orange for Platform to radiate energy and strength. For Agency, I chose a deep light or Agency, I chose a deep light blue to evoke a sense of trustworthiness and stability. And for Films, I chose a yellow shade blue to evoke a sense of trustworthiness and stability. And for Films, I chose a yellow shade with a hint of orange to exude mystery and technology.with a hint of orange to exude mystery and technology.
 
 ## Type
+
+![Placeholder for alt text.](commons font.png)
+
+![Placeholder for alt text.](kinetica font.png)
 
 The visual style consists of modern sans-serif fonts of the TT Commonsserif fonts of the TT Commons font family, which are font family, which are universal and legible thanks to the sharpness of the characters. I use Regular, Italic and Bold universal and legible thanks to the sharpness of the characters. I use Regular, Italic and Bold typefaces for both print and digital materials. As a complementary font, I chose Kinetica with typefaces for both print and digital materials. As a complementary font, I chose Kinetica with Bold and Light cuts, which are inspired bBold and Light cuts, which are inspired by movement and will stand out on social networks and y movement and will stand out on social networks and printed matter.printed matter.
 
 ## Graphic elements
 
+![Placeholder for alt text.](Graficke prvky.png)
+
 The visual style includes typography, colors and graphic elements that are based on the logo symbol, made up of triangles. Graphic elements are used for social networks, symbol, made up of triangles. Graphic elements are used for social networks, printed materials, printed materials, promotional materials and corporate architecture.promotional materials and corporate architecture.
 
 ## Illustrations
+
+![Placeholder for alt text.](ilustrace.png)
+
+![Placeholder for alt text.](ilustrace.png)
 
 Illustrations were created for the platform, as a place with educational content. Triangular figures will help to communicate ideas, company values and a wide content of inffigures will help to communicate ideas, company values and a wide content of information in a ormation in a fun way. Illustrations are suitable for output on social networks and videos, where it will be fun way. Illustrations are suitable for output on social networks and videos, where it will be possible to partially animate them and thus create engaging content. Their function is mainly possible to partially animate them and thus create engaging content. Their function is mainly secondary.secondary.
 
@@ -114,6 +128,8 @@ Illustrations were created for the platform, as a place with educational content
 When creating communication, I decided whether the brand would communicate only its , I decided whether the brand would communicate only its service in a more corporate way or if it would also spread its image. I went with the second service in a more corporate way or if it would also spread its image. I went with the second option and came up with a few slogans that could convey the company's internal values to the option and came up with a few slogans that could convey the company's internal values to the target group target group and prescribe the visual style. Since this is a company that will operate remotely and prescribe the visual style. Since this is a company that will operate remotely online, I focused on the preparation of visuals for communication on social networks, but I also online, I focused on the preparation of visuals for communication on social networks, but I also designed a poster, merch and signposts. I also worked on the design of the wdesigned a poster, merch and signposts. I also worked on the design of the website for ebsite for Cingertetik.Cingertetik.
 
 ## Slogan
+
+![Placeholder for alt text.](Slogany.png)
 
 The main slogan is "Collective Storytelling". It can appear in the animation after the logo, in the main communication, hashtag or on company printed materials. It also gives rise to the the main communication, hashtag or on company printed materials. It also gives rise to the marketing slogans "Born to Storytell" marketing slogans "Born to Storytell" and "Place where you get creative from every and "Place where you get creative from every [tri]angle", which would supplement the content of campaigns, promotional materials, and [tri]angle", which would supplement the content of campaigns, promotional materials, and appear on social networks or websites. They can be used across all sections of the companyappear on social networks or websites. They can be used across all sections of the company
 
