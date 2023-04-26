@@ -2,6 +2,8 @@
 ## Corporate Indentity Design of an Innovative Film Production Company
 - - -
 
+![Placeholder for alt text.](film-stage-with-digital-camera-and-a-clapperboard-2022-12-16-11-44-45-utc.png)
+
 When choosing a topic for my bachelor's thesis, it was crucial that it is close to me and I know
 something about it. I have always been fascinated by the world of film and was attracted by its
 artistic value. My visit to the Locarno Film Festival became a big inspiration. I admired the
@@ -16,13 +18,17 @@ an optimal corporate identity that will clearly communicate the corporate values
 
 ## Film Industry Definition
 
+![Placeholder for alt text.](Film-Crew-Positions52.png)
+
 At the beggining, it was important for me to understand what is the film industry made of.
 Thanks to the conversations I had with client and to the research I did, I gained valuable facts.
 It is all about collaboration between different departements of the film industry in order to
-create a movie. T his sector provides many professional opportunities and can also have an
+create a movie. This sector provides many professional opportunities and can also have an
 economic impact on tourism.
 
 ## Analyses of visual styles
+
+![Placeholder for alt text.](Visual Style Examples.png)
 
 I focused on researching companies that have many elements in common with Cingertetik. For a
 more detailed analysis, I have sele cted the ones that contribute to the development and support
@@ -34,6 +40,8 @@ social networks. A24, Filmmakers Academy, Midpoint Institute, Superside, Locarno
 
 ## About Cinergetik
 
+![Placeholder for alt text.](Moodboard.png)
+
 Cinergetik describes itself as a film and media company that uses digital technology to innovate
 the way filmmakers tell stories. Through the Collective Storytelling concept, the company
 focuses on developing tools and methods for effective collaboration b etween creative talents
@@ -41,7 +49,6 @@ from around the world. Believing that there are meaningful stories within each o
 to be told, they will focus on spreading the knowledge and access to resources that filmmakers
 need to perfect their craft and produce qu ality films.
 
-In my next steps of building visual style I have analysed the strenghts, weaknesses, oppurtunities
 In my next steps of building visual style I have analysed the strenghts, weaknesses, oppurtunities and threats of the company.
 Then created the moodboard to help me with defining target and threats of the company. Then created the moodboard to help me with defining target groups.groups.
 
@@ -56,30 +63,35 @@ company, which together form Cingertetik.
 
 ## Logo
 
-logo consists of the Cingertetik symbol and logotype. The logo represents the film
+![Placeholder for alt text.](Logo.png)
+
+Logo consists of the Cingertetik symbol and logotype. The logo represents the film
 community with its playful yet minimalist look. I achieved this by choosing a sans serif font
 and choosing a contrasting color of black and white.
+
+![Placeholder for alt text.](Symbol.png)
 
 The symbol is composed of five triangles in the shape of the letter C. This shape is defined by
 the appearance of the camera lens, where the triangles symbolize the apertures. Collectiveness
 and cooperation is another element of the symbol, each triangle is a unique part of the whole
 Cinergetik.
 
-Variants of the logo ...
+![Placeholder for alt text.](Logo versions.png)
+
+Here are versions of logos for each departement of Cinergetik company.
+
 
 ## Animations
+
+![Placeholder for alt text.](Agency logo animace.png)
+
+![Placeholder for alt text.](Platform logo animace.png)
+
+![Placeholder for alt text.](Films logo animace.png)
 
 Motion and effects are important to the cinematic world, so I decided to create an animation for
 each logo variant. Animations will add originality and a technological atmosphere to the logo.
 Animations symbolize the process of creation and collaboration.
-Animations for the platform start with small triangles that gradually merge into a Cingergetics
-symbol called Platform.
-The animations for the corporate agency start
-with a light blue triangle, which is gradually
-complemented by darker triangles until a gradient symbol called Agency is created.
-Animations for film production start with a triangle with a hidden part of the running video,
-which is gradually combined with other parts until a complete symbol called Cingertetik
-Films is created.
 
 ## Colors
 
