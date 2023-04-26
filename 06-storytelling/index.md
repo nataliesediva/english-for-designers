@@ -64,7 +64,8 @@ I was like wait, but I do not have one. What should I do now? I need to find my 
 
 ## Let's see one developed style example
 
-![Placeholder for alt text.](Rayco Design.png)
+![Placeholder for alt text.](Full_TF.png)
+
 Can you guess how her art style LookS like? Where she takes inspiration from?
 If you are ready, reveal her style to see if you were close!
 
@@ -85,7 +86,6 @@ I think that when you get to this point of understanding yourself and accepting 
 <br>
 
 ## A little bonus - showcase of my *(in progress)* style
-
 
 ![Placeholder for alt text.](VLS Ilustrace.png)
 
