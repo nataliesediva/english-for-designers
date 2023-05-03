@@ -133,4 +133,23 @@ When creating communication, I decided whether the brand would communicate only 
 
 The main slogan is "Collective Storytelling". It can appear in the animation after the logo, in the main communication, hashtag or on company printed materials. It also gives rise to the the main communication, hashtag or on company printed materials. It also gives rise to the marketing slogans "Born to Storytell" marketing slogans "Born to Storytell" and "Place where you get creative from every and "Place where you get creative from every [tri]angle", which would supplement the content of campaigns, promotional materials, and [tri]angle", which would supplement the content of campaigns, promotional materials, and appear on social networks or websites. They can be used across all sections of the companyappear on social networks or websites. They can be used across all sections of the company
 
+## Social Media
+
+![Placeholder for alt text.](.png)
+
+Cingertetik's activity on social networks is key. It is important that brand unity is maintained in posts and across accounts of individual branches of the entity. Graphical elements are therefore ubiquitous, even if they behave differently. Cinergetik will apply its scope to Instagram, Facebook, LinkedIn, Twitter and YouTube. She decided to apply the visual style to the design for the Instagram accounts of individual departments.
+
+![Placeholder for alt text.](.png)
+
+The importance of communicating the range of services provided by a corporate agency on their Instagram profile is emphasized. I have created visuals featuring team members or industry professionals explaining the importance of services, with triangles placed in the background and moderate use of typography. Other proposed content includes showcasing the inside of the agency through carousels featuring birthday celebrations or non-work related activities, as well as featuring reviews from satisfied clients as a way to increase website traffic and establish a deeper relationship with potential customers.
+
+![Placeholder for alt text.](.png)
+
+The Instagram profile for a platform consists of posts featuring lessons, workshops, a podcast, or news from the world. I have created layouts using animated visuals with scattered triangles in the posts featuring lessons for filmmakers. Another proposal is to use triangles scattered freely in the  visuals for the podcast posts. Where will be discussed various topics from the world of filmmaking, innovation, and technology. The last proposal is for a "Just Now" session that summarizes important news and will lead to the full article located on the website's blog section.
+
+![Placeholder for alt text.](.png)
+
+For film production Instagram profile, contributions are mainly based on film samples from filming or from film festivals and events. I decided to use for a movie previews a mirroring triangle effect that gets smaller and disappears as the prewiew continues. Another proposed idea is a carousel of photos from events organized by Cingertetik, where the pattern covers parts of the photos while also connecting them. The last proposed idea is a typographical variant of the broken effect in the posts from filming scene.
+
+
 
