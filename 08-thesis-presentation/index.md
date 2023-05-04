@@ -1,5 +1,5 @@
 # BACHELOR'S THESIS
-## Corporate Indentity Design of an Innovative Film Production Company
+## Corporate Identity Design of an Innovative Film Production Company
 - - -
 
 ![Placeholder for alt text.](intro.png)
