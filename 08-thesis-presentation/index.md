@@ -156,7 +156,7 @@ For film production Instagram profile, contributions are mainly based on film sa
 
 ## Web
 
-![Placeholder for alt text.](.png)
+![Placeholder for alt text.](Web.png)
 
 I created a website design that will serve as the main source of information about Cingertetik, services, events and more. In the design process, I analyzed the parameters for an optimal user experience when visiting the website, and then used wireframes to assemble the content of the website, which I then converted into the final visual form. On the first page, there is a dominant heading with text describing the range of services. The sign attracts website visitors with its clear message. By scrolling down, a corporate promo video presenting the Cingeretic concept appears. Just below it are located icons and short texts summarizing the goals and values of the company. When we move further, we get to the section of the offer of services, where successive sections of the company appear.
 
@@ -166,7 +166,7 @@ First we are introduced with a picture and a short text with the title corporate
 
 ![Placeholder for alt text.](Plakáty pro firemní agenturu.png)
 
-![Placeholder for alt text.](Plakáty pro firemní agenturu.png)
+![Placeholder for alt text.](Plakáty pro Cinergetik.png)
 
 I designed a series of posters for offline communication. The agency can speak to the surroundings through posters designed to promote the offer of services. In the layout, I work with a short and striking title and supplement it with an email contact and information about the Cingertetik website. Posters would be placed on advertising surfaces in the area of office buildings.
 
@@ -174,13 +174,13 @@ The other posters are a trio of layouts for Cingertetik. The symbol and typograp
 
 ## Corporate architecture
 
-![Placeholder for alt text.](Neonová dekorace v kanceláři.png)
+![Placeholder for alt text.](Corporate Architecture.png)
 
 The company's visual style is also prescribed in corporate architecture, where it is used to create a special routing system and to decorate the office space or the filming room, so that everyone who enters the space realizes that they are surrounded by the Cingeretic concept.
 
 ## Merch
 
-![Placeholder for alt text.](.png)
+![Placeholder for alt text.](Merch.png)
 
 When designing promotional items, I was guided by the knowledge I gained from analyzing other film and creative subjects. I focused on products that could be used as part of promotion at events and festivals, but could also serve as gifts for new employees and supporters.
 
