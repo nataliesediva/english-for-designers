@@ -31,7 +31,7 @@ That I need to continouslly work with the level of my confidence, so I can have 
 
 ## 7) What’s one thing you could have done better?
 
-In retrospective, I can say there were things that deserved more attention and commintment. I wish that I could have been more active and give more feedbacks to others as I wantedt to. In the same time trying to balance the work and school life was challanging and I've done what I could.
+In retrospective, I can say there were things that deserved more attention and commintment. I wish that I could have been more active and be more expressive in the class as I wanted to. In the same time trying to balance the work and school life was challanging and I've done what I could.
 
 ## 8) What’s one thing I could have done better?
 
