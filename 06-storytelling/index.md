@@ -87,11 +87,13 @@ I think that when you get to this point of understanding yourself and accepting 
 
 ## A little bonus - showcase of my *(in progress)* style
 
-![Placeholder for alt text.](VLS Ilustrace.png)
+![Placeholder for alt text.](VLS_Ilustrace.png)
 
 ![Placeholder for alt text.](Full_TF.png)
 
-![Placeholder for alt text.](Asset 1.png)
+![Placeholder for alt text.](my_illustration.png)
+
+![Placeholder for alt text.](illustration_impacthub.png)
 
 
 
