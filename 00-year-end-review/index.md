@@ -18,7 +18,7 @@ Watching 30 min lenght video :D that was killing me.
 ## 4) What was the most memorable activity/assignment?
 
 First ever given assigment. Giving instruction of an object to somebody else that has never seen it before. The one had to draw it just by reading my instruction.
-As for designer, it is important to be able to translate your thougts and visions to other people. And only by giving them clear instruction they can understand you.
+As for designer, it is important to be able to translate thougts and visions to other people. And only by giving them clear instruction they can understand you.
 That is what I have learnt during this team activity.
 
 ## 5) What’s something you accomplished this year that you are most proud of?
