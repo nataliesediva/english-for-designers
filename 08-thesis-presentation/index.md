@@ -2,7 +2,7 @@
 ## Corporate Indentity Design of an Innovative Film Production Company
 - - -
 
-![Placeholder for alt text.](film-stage-with-digital-camera-and-a-clapperboard-2022-12-16-11-44-45-utc.png)
+![Placeholder for alt text.](film-stage-with-digital-camera-and-a-clapperboard-2022-12-16-11-44-45-utc.jpeg)
 
 When choosing a topic for my bachelor's thesis, it was crucial that it is close to me and I know
 something about it. I have always been fascinated by the world of film and was attracted by its
@@ -18,7 +18,7 @@ an optimal corporate identity that will clearly communicate the corporate values
 
 ## Film Industry Definition
 
-![Placeholder for alt text.](Film-Crew-Positions52.png)
+![Placeholder for alt text.](Film-Crew-Positions52.jpg)
 
 At the beggining, it was important for me to understand what is the film industry made of.
 Thanks to the conversations I had with client and to the research I did, I gained valuable facts.
@@ -87,7 +87,7 @@ Here are versions of logos for each departement of Cinergetik company.
 
 ![Placeholder for alt text.](Platform logo animace.png)
 
-![Placeholder for alt text.](Films logo animace.png)
+![Placeholder for alt text.](Films Logo animace.png)
 
 Motion and effects are important to the cinematic world, so I decided to create an animation for
 each logo variant. Animations will add originality and a technological atmosphere to the logo.
@@ -119,7 +119,12 @@ The visual style includes typography, colors and graphic elements that are based
 
 ![Placeholder for alt text.](ilustrace.png)
 
-![Placeholder for alt text.](ilustrace.png)
+![Placeholder for alt text.](Příspěvky s ilustracemi, firemní platforma.png)
+
+![Placeholder for alt text.](Příspěvky s ilustracemi, firemní platforma_1.png)
+
+![Placeholder for alt text.](Příspěvky s ilustracemi, firemní platforma_2.png)
+
 
 Illustrations were created for the platform, as a place with educational content. Triangular figures will help to communicate ideas, company values and a wide content of inffigures will help to communicate ideas, company values and a wide content of information in a ormation in a fun way. Illustrations are suitable for output on social networks and videos, where it will be fun way. Illustrations are suitable for output on social networks and videos, where it will be possible to partially animate them and thus create engaging content. Their function is mainly possible to partially animate them and thus create engaging content. Their function is mainly secondary.secondary.
 
@@ -135,19 +140,17 @@ The main slogan is "Collective Storytelling". It can appear in the animation aft
 
 ## Social Media
 
-![Placeholder for alt text.](.png)
-
 Cingertetik's activity on social networks is key. It is important that brand unity is maintained in posts and across accounts of individual branches of the entity. Graphical elements are therefore ubiquitous, even if they behave differently. Cinergetik will apply its scope to Instagram, Facebook, LinkedIn, Twitter and YouTube. She decided to apply the visual style to the design for the Instagram accounts of individual departments.
 
-![Placeholder for alt text.](.png)
+![Placeholder for alt text.](Instagram agency.png)
 
 The importance of communicating the range of services provided by a corporate agency on their Instagram profile is emphasized. I have created visuals featuring team members or industry professionals explaining the importance of services, with triangles placed in the background and moderate use of typography. Other proposed content includes showcasing the inside of the agency through carousels featuring birthday celebrations or non-work related activities, as well as featuring reviews from satisfied clients as a way to increase website traffic and establish a deeper relationship with potential customers.
 
-![Placeholder for alt text.](.png)
+![Placeholder for alt text.](Instagram platform.png)
 
 The Instagram profile for a platform consists of posts featuring lessons, workshops, a podcast, or news from the world. I have created layouts using animated visuals with scattered triangles in the posts featuring lessons for filmmakers. Another proposal is to use triangles scattered freely in the  visuals for the podcast posts. Where will be discussed various topics from the world of filmmaking, innovation, and technology. The last proposal is for a "Just Now" session that summarizes important news and will lead to the full article located on the website's blog section.
 
-![Placeholder for alt text.](.png)
+![Placeholder for alt text.](Instagram films.png)
 
 For film production Instagram profile, contributions are mainly based on film samples from filming or from film festivals and events. I decided to use for a movie previews a mirroring triangle effect that gets smaller and disappears as the prewiew continues. Another proposed idea is a carousel of photos from events organized by Cingertetik, where the pattern covers parts of the photos while also connecting them. The last proposed idea is a typographical variant of the broken effect in the posts from filming scene.
 
@@ -161,7 +164,9 @@ First we are introduced with a picture and a short text with the title corporate
 
 ## Offline
 
-![Placeholder for alt text.](.png)
+![Placeholder for alt text.](Plakáty pro firemní agenturu.png)
+
+![Placeholder for alt text.](Plakáty pro firemní agenturu.png)
 
 I designed a series of posters for offline communication. The agency can speak to the surroundings through posters designed to promote the offer of services. In the layout, I work with a short and striking title and supplement it with an email contact and information about the Cingertetik website. Posters would be placed on advertising surfaces in the area of office buildings.
 
@@ -169,7 +174,7 @@ The other posters are a trio of layouts for Cingertetik. The symbol and typograp
 
 ## Corporate architecture
 
-![Placeholder for alt text.](.png)
+![Placeholder for alt text.](Neonová dekorace v kanceláři.png)
 
 The company's visual style is also prescribed in corporate architecture, where it is used to create a special routing system and to decorate the office space or the filming room, so that everyone who enters the space realizes that they are surrounded by the Cingeretic concept.
 
