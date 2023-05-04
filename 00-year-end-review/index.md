@@ -1,33 +1,39 @@
 # Year End Review
 
-**1) What did you like most about this course?**
+## 1) What did you like most about this course?
 
 I think it was the atmosphere of the course in general. Safe place, where every comment or idea was welcomed. Interesting up to date topics,
 that were presented to us with positive energy and motivational spirit.
 
-**2) What did you like least about this course?**
+## 2) What did you like least about this course?
 
 
-**3) What were the top (three) things you learned this year?**
+## 3) What were the top (three) things you learned this year?
 
 - using markdown
 - to storytell better
 - keep the balance between formal and informal voice and tone
 
-**4) What was the most memorable activity/assignment?**
+## 4) What was the most memorable activity/assignment?
 
 First ever given assigment, to give instruction of an object I know how it looks to somebody else. Ant the one has to draw it just by reading my instruction.
 Very often as a designer you have to translate your thougts and visuons to other people and it is important, that they will understand what you are trying to say.
 That is what I have learnt during this team activity.
 
-**5) What’s something you accomplished this year that you are most proud of?**
+## 5) What’s something you accomplished this year that you are most proud of?
 
-**6) What’s one thing you learned about yourself?**
+Definitely my bachalor's thesis, as it's topic was something I was very passionete about and I intended to do a good job.
 
-**7) What’s one thing you could have done better?**
+## 6) What’s one thing you learned about yourself?
 
-**8) What’s one thing I could have done better?**
+## 7) What’s one thing you could have done better?
 
-**9) What’s one thing you would add or change about this course?**
+## 8) What’s one thing I could have done better?
 
-**10) What advice would you give to students taking this course next year?**
+Presenting, giving feedbacks, bying more active - you name it :D In retrospective, I can say there were things that deserved more attention and commintment. In the same time trying to balance the work and school life was challanging and I've done what I could.
+
+## 9) What’s one thing you would add or change about this course?
+
+Only thing I can think of is adding more inclass work, so everybody gets involved and that way get sharpen his/her english skills.
+
+## 10) What advice would you give to students taking this course next year?
