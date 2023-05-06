@@ -7,7 +7,7 @@ that were presented to us with positive energy and motivational spirit.
 
 ## 2) What did you like least about this course?
 
-Watching 30 min lenght video :D that was killing me.
+Watching 30 min length video :D that was killing me.
 
 ## 3) What were the top (three) things you learned this year?
 
