@@ -23,7 +23,7 @@ That is what I have learnt during this team activity.
 
 ## 5) What’s something you accomplished this year that you are most proud of?
 
-Definitely my bachalor's thesis, as it's topic was something I was very passionete about and I intended to do a good job.
+My bachalor's thesis, as it's topic was something I was very passionete about and I intended to do a good job. But also completing a big task - brand illustrations for Impact Hub.
 
 ## 6) What’s one thing you learned about yourself?
 
