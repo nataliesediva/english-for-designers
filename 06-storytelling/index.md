@@ -1,15 +1,15 @@
 # FINDING YOUR STYLE
 - - -
 
-So I was wondering what is it that I would like to speak about and make an presentation about. And during our mindmap excerscise I find out that it has to do something with finding my style, finding motivation or inspiration. Having these topics written on the paper it led me to think of list of activities, where I am dealing with these topics. And one of them were illustrations. In order to that I will demostrate this presentatioon on Illustrations!
+I was wondering what is it that I would like to speak about and make an presentation about. And during our mindmap excerscise I found out that it has to do something with finding my style, finding motivation or inspiration. Having these topics written on the paper it led me to think of list of activities, where I am dealing with these topics. And one of them were illustrations. In order to that I will demostrate this presentatioon on illustrations!
 
 <br>
 <br>
 
 ![Placeholder for alt text.](gravity_drib2.gif)
 
-So I don’t know how many of you also have the experience, but when applying to job posts I got many questions like and what is your art style?
-I was like wait, but I do not have one. What should I do now? I need to find my style!
+So I don’t know how many of you also have the experience, but when applying to job posts I got many questions about what is my art style.
+I was like wait, but I do not really have one. What should I do now? I need to find my style!
 
 ***Let's say it at the beggining,*** you do not find your own art style you develop it, after years of practice.
 
@@ -66,8 +66,8 @@ I was like wait, but I do not have one. What should I do now? I need to find my 
 
 ![Placeholder for alt text.](rayco_design.png)
 
-Can you guess how her art style LookS like? Where she takes inspiration from?
-If you are ready, reveal her style to see if you were close!
+Can you guess how her art style looks like? Where she takes inspiration from?
+When you are ready, reveal her style to see if you were close!
 
 [***CLICK TO REVEAL***](https://raycodesign.com/artwork)
 
