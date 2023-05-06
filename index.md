@@ -1,7 +1,7 @@
 # Hello and Welcome!
 - - -
 
-I'm Natalie and this is my design portfolio website. My field of focus is Graphic Design with big portion of Illustrations. Let's transform your idea into the best creative outcome!
+I’m Natalie, and this is my design portfolio website. My field of focus is graphic design, with a hefty portion of illustrations. Let’s transform your idea into the best creative outcome.
 
 <br>
 
@@ -14,7 +14,7 @@ I'm Natalie and this is my design portfolio website. My field of focus is Graphi
 
 <br>
 
-## Case Studie
+## Case Study
 
 - [Business Card Design](03-content-first)
 
