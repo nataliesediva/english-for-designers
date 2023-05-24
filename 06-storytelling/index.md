@@ -1,5 +1,7 @@
 # FINDING YOUR STYLE
 - - -
+- [***Presentation here***](https://docs.google.com/presentation/d/1Qy3V-5CpXyblFkmpnubY_4RVI7_iBv7IktUB34zS5yM/edit#slide=id.p)
+
 
 I was wondering what is it that I would like to speak about and make an presentation about. And during our mindmap excerscise I found out that it has to do something with finding my style, finding motivation or inspiration. Having these topics written on the paper it led me to think of list of activities, where I am dealing with these topics. And one of them were illustrations. In order to that I will demostrate this presentatioon on illustrations!
 
