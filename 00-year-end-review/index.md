@@ -17,7 +17,7 @@ Watching 30 min length video :D that was killing me.
 
 ## 4) What was the most memorable activity/assignment?
 
-First ever given assigment. Giving instruction of an object to somebody else that has never seen it before. The one had to draw it just by reading my instruction.
+The first-ever assignment given. Giving instruction of an object to somebody else that has never seen it before. The one had to draw it just by reading my instruction.
 As for designer, it is important to be able to translate thougts and visions to other people. And only by giving them clear instruction they can understand you.
 That is what I have learnt during this team activity.
 
@@ -27,11 +27,11 @@ My bachalor's thesis, as it's topic was something I was very passionete about an
 
 ## 6) What’s one thing you learned about yourself?
 
-That I need to continouslly work with the level of my confidence, so I can have more stable mindset:)
+That I need to continuously work on the level of my confidence, so I can have a more stable mindset:)
 
 ## 7) What’s one thing you could have done better?
 
-In retrospective, I can say there were things that deserved more attention and commintment. I wish that I could have been more active and be more expressive in the class as I wanted to. In the same time trying to balance the work and school life was challanging and I've done what I could.
+In retrospective, I can say there were things that deserved more attention and commitment. I wish that I could have been more active and be more expressive in the class as I wanted to. At the same time trying to balance the work and school life was challenging and I’ve done what I could.
 
 ## 8) What’s one thing I could have done better?
 
@@ -39,8 +39,8 @@ I have nothing to say. Only that I appreciate your unconventional approach and s
 
 ## 9) What’s one thing you would add or change about this course?
 
-Only thing I can think of is adding more inclass work, so everybody gets involved and that way get sharpen his/her english skills. 
+The only thing I can think of is adding more in-class work so everybody gets involved and gets to sharpen their English skills. 
 
 ## 10) What advice would you give to students taking this course next year?
 
-Don't be afraid to speak. Aside from learning valuable things by doing your HW, this is the place where you can practise your english and get better in it.  
+Don’t be afraid to speak. Aside from learning valuable things by doing your HW, this is the place where you can practice your English and get better at it.  
